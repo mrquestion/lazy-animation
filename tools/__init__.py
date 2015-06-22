@@ -22,10 +22,10 @@ def get_logo(text="Please input logo text", border='='):
 def logo(text="Please input logo text", border='='):
 	print(os.linesep.join(get_logo(text=text, border=border)))
 
-def timestamp(format="%Y%m%d-%H%M%S", time=time.time(), rfc=None):
+def timestamp(format="%Y%m%d-%H%M%S", rfc=None):
 	if rfc is not None and type(rfc) in [ int, float ]:
-		if rfc == 1123: return email.utils.formatdate(timeval=time, localtime=False, usegmt=True)
-	else: return datetime.datetime.fromtimestamp(time).strftime(format)
+		if rfc == 1123: return email.utils.formatdate(timeval=time.time, localtime=False, usegmt=True)
+	else: return datetime.datetime.fromtimestamp(time.time()).strftime(format)
 
 def md5(s):
 	s = s if type(s) is str else str(s)

@@ -1,0 +1,579 @@
+[일]
+- 알드노아. 제로 (http://www.aldnoahzero.com/) <w = 0, i = 3075>
+  > 3 categories.
+    => stankovic (http://fuko.tistory.com/1612)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/ALDNOAH', 'TEXT': '- 14 -/ALDNOAH'}
+        ==>> 2. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/ALDNOAH', 'TEXT': 'ALDNOAH'}
+        ==>> 3. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -', 'TEXT': '- 14 -'}
+    => 하느 (http://blog.noitamina.moe/220286794333)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=harne_&categoryNo=155', 'TEXT': '알드노아. 제로'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=harne_&categoryNo=78', 'TEXT': '자막'}
+    => 글라이더 (http://parang567.blog.me/220286811529)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=parang567&categoryNo=53', 'TEXT': '알드노아 제로'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=parang567&categoryNo=21', 'TEXT': '진행 중 자막'}
+- DOG DAYS'' (http://www.dogdays.tv/) <w = 0, i = 1524>
+  > 3 categories.
+    => 슈펠 (http://stadtfeld.tistory.com/640)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': "http://stadtfeld.tistory.com/category/자막[진행]/[일]DOG DAYS''", 'TEXT': "[일]DOG DAYS''"}
+        ==>> 2. {'TISTORY': 'http://stadtfeld.tistory.com/category/자막[진행]', 'TEXT': '자막[진행]'}
+        ==>> 3. {'TISTORY': "http://stadtfeld.tistory.com/category/자막[진행]/[일]DOG DAYS''", 'TEXT': "자막[진행]/[일]DOG DAYS''"}
+    => 여니 (http://kwangwaul.egloos.com/5868023)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://kwangwaul.egloos.com/category/[일] Dog Days 시리즈', 'TEXT': '[일] Dog Days 시리즈'}
+    => 천상 (http://mglna.tistory.com/524)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': "http://mglna.tistory.com/category/진행자막/임시진행//DOG DAYS''(3기)", 'TEXT': "진행자막/임시진행//DOG DAYS''(3기)"}
+        ==>> 2. {'TISTORY': 'http://mglna.tistory.com/category/진행자막', 'TEXT': '진행자막'}
+        ==>> 3. {'TISTORY': "http://mglna.tistory.com/category/진행자막/임시진행//DOG DAYS''(3기)", 'TEXT': "임시진행//DOG DAYS''(3기)"}
+- 크로스앙쥬 천사와 용의 윤무 (http://crossange.com/) <w = 0, i = 3227>
+  > 1 category.
+    => 프리시스 (http://prisis.tistory.com/671)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://prisis.tistory.com/category/애니 자막 (방영중)/크로스앙쥬', 'TEXT': '크로스앙쥬'}
+        ==>> 2. {'TISTORY': 'http://prisis.tistory.com/category/애니 자막 (방영중)/크로스앙쥬', 'TEXT': '애니 자막 (방영중)/크로스앙쥬'}
+        ==>> 3. {'TISTORY': 'http://prisis.tistory.com/category/애니 자막 (방영중)', 'TEXT': '애니 자막 (방영중)'}
+- 롤링☆걸즈 (http://rollinggirls.com/) <w = 0, i = 3224>
+  > 2 categories.
+    => 쵸우료우 (http://chouryou.blog.me/220286834417)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=55', 'TEXT': '▷ 진행자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=94', 'TEXT': '롤링☆걸즈'}
+    => 불법미인 (http://bbmi.kr)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://bbmi.tistory.com/category/진행자막/롤링 걸즈', 'TEXT': '롤링 걸즈'}
+- 쿠로코의 농구 3기 (http://www.kurobas.com/) <w = 0, i = 3166>
+  > 2 categories.
+    => 파Oi (http://blog.naver.com/baby1255/220286845069)
+      >> 1 candidate.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=baby1255&categoryNo=210', 'TEXT': '♪일。쿠로코의 농구 3기'}
+    => 리안 (http://ta2hisa.tistory.com/104)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://ta2hisa.tistory.com/category/쿠로코의 농구 3기', 'TEXT': '쿠로코의 농구 3기'}
+- 월드 트리거 (http://www.toei-anim.co.jp/tv/wt/) <w = 0, i = 3163>
+  > 1 category.
+    => 파Oi (http://blog.naver.com/baby1255/220286980582)
+      >> 1 candidate.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=baby1255&categoryNo=208', 'TEXT': '♪일。월드 트리거'}
+- 다이아몬드A (http://diaace.com) <w = 0, i = 1310>
+  > 1 category.
+    => 스피넬 (http://spinel.egloos.com/5268146)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://spinel.egloos.com/category/다이아몬드A', 'TEXT': '다이아몬드A'}
+- Go! 프린세스 프리큐어 (http://www.toei-anim.co.jp/tv/princess_precure/) <w = 0, i = 3342>
+  > 0 category.
+- 드래곤볼Kai 마인 부우 편 (http://www.toei-anim.co.jp/tv/dragon_kai/ ) <w = 0, i = 3079>
+  > 1 category.
+    => daku (http://blog.naver.com/daku99/220266719069)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=daku99&categoryNo=11', 'TEXT': '드래곤볼 카이 - 마인부우-'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=daku99&categoryNo=10', 'TEXT': '자막제작공간'}
+- 원피스 (http://www.toei-anim.co.jp/tv/onep/ ) <w = 0, i = 1314>
+  > 0 category.
+- 일곱 개의 대죄 (http://www.7-taizai.net/) <w = 0, i = 3216>
+  > 2 categories.
+    => stankovic (http://fuko.tistory.com/1614)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/7 Deadly Sins', 'TEXT': '7 Deadly Sins'}
+        ==>> 2. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/7 Deadly Sins', 'TEXT': '- 14 -/7 Deadly Sins'}
+        ==>> 3. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -', 'TEXT': '- 14 -'}
+    => 리안 (http://ta2hisa.tistory.com/105)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://ta2hisa.tistory.com/category/일곱 개의 대죄', 'TEXT': '일곱 개의 대죄'}
+- 유희왕 ARC-V (http://www.tv-tokyo.co.jp/anime/yugioh-arcv/ ) <w = 0, i = 3080>
+  > 0 category.
+- 앱솔루트 듀오 (http://www.absoluteduo.com/) <w = 0, i = 3212>
+  > 2 categories.
+    => LN 타치바나 (http://blog.naver.com/gkgk6265/220280160213)
+      >> 1 candidate.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=gkgk6265&categoryNo=134', 'TEXT': '앱솔루트 듀오'}
+    => 코야레인 (http://cndska15.blog.me/220280475068)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=197', 'TEXT': '앱솔루트 듀오'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=107', 'TEXT': '『자막』'}
+- 밤의 얏타맨 (http://yatterman.jp/) <w = 0, i = 3287>
+  > 1 category.
+    => 알파카맨 (http://ilovealpaca.tistory.com/199)
+      >> 22 candidates.
+        ==>> 1. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/러브 라이브 2기', 'TEXT': '러브 라이브 2기'}
+        ==>> 2. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/농림', 'TEXT': '농림'}
+        ==>> 3. {'TISTORY': 'http://ilovealpaca.tistory.com/category/기타', 'TEXT': '기타'}
+        ==>> 4. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/기생수', 'TEXT': '기생수'}
+        ==>> 5. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/러브 라이브 1기', 'TEXT': '러브 라이브 1기'}
+        ==>> 6. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/위치 크래프트 웍스', 'TEXT': '위치 크래프트 웍스'}
+        ==>> 7. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/밤의 얏타맨', 'TEXT': '진행중 자막/밤의 얏타맨'}
+        ==>> 8. {'TISTORY': 'http://ilovealpaca.tistory.com/category/하차 자막', 'TEXT': '하차 자막'}
+        ==>> 9. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/야마노스스메', 'TEXT': '야마노스스메'}
+        ==>> 10. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/야마노스스메 세컨드 시즌', 'TEXT': '야마노스스메 세컨드 시즌'}
+        ==>> 11. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/핑퐁 THE ANIMATION', 'TEXT': '핑퐁 THE ANIMATION'}
+        ==>> 12. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막', 'TEXT': '완결 자막'}
+        ==>> 13. {'TISTORY': 'http://ilovealpaca.tistory.com/category/공지사항', 'TEXT': '공지사항'}
+        ==>> 14. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막', 'TEXT': '진행중 자막'}
+        ==>> 15. {'TISTORY': 'http://ilovealpaca.tistory.com/category/영상 작업물', 'TEXT': '영상 작업물'}
+        ==>> 16. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/신격의 바하무트 GENESIS', 'TEXT': '신격의 바하무트 GENESIS'}
+        ==>> 17. {'TISTORY': 'http://ilovealpaca.tistory.com/category/하차 자막/월드 트리거', 'TEXT': '월드 트리거'}
+        ==>> 18. {'TISTORY': 'http://ilovealpaca.tistory.com/category/알파카', 'TEXT': '알파카'}
+        ==>> 19. {'TISTORY': 'http://ilovealpaca.tistory.com/category/게임 한글화', 'TEXT': '게임 한글화'}
+        ==>> 20. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/최근 여동생의 상태가 조금 이상한 것 같다만', 'TEXT': '최근 여동생의 상태가 조금 이상한 것 같다만'}
+        ==>> 21. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/누나가 왔다', 'TEXT': '누나가 왔다'}
+        ==>> 22. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/밤의 얏타맨', 'TEXT': '밤의 얏타맨'}
+- 모두 모여라! 팔콤학원 SC (http://www.fal-gaku.com/) <w = 0, i = 3241>
+  > 2 categories.
+    => 레오네 (http://blog.naver.com/oksk0302/220280658909)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oksk0302&categoryNo=56', 'TEXT': '『영웅전설』'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oksk0302&categoryNo=101', 'TEXT': '『팔콤학원 SC 자막』'}
+    => ChOfH6 (http://blog.naver.com/dnjfdydlf2)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=dnjfdydlf2&widgetTypeCall=true&categoryNo=6', fragment='')
+      >> 0 candidate.
+- 순결의 마리아 (http://junketsu-maria.tv/) <w = 0, i = 643>
+  > 2 categories.
+    => 쵸우료우 (http://chouryou.blog.me/220280292201)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=55', 'TEXT': '▷ 진행자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=95', 'TEXT': '순결의 마리아'}
+    => 하케라노 (http://hakerano.blog.fc2.com/)
+      >> 1 candidate.
+        ==>> 1. {'FC2': 'http://hakerano.blog.fc2.com/blog-category-40.html', 'TEXT': '[日] 순결의 마리아 (7)'}
+[월]
+- 성검사의 금주영창 (http://warubure-anime.com/) <w = 1, i = 3090>
+  > 1 category.
+    => 카이란 (http://blog.naver.com/qtr01122/220280348500)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=qtr01122&categoryNo=32', 'TEXT': '성검사의 금주영창'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=qtr01122&categoryNo=13', 'TEXT': '자막'}
+- 전국무쌍 (http://www.tv-tokyo.co.jp/anime/sengokumusou/) <w = 1, i = 3292>
+  > 0 category.
+- 오레카 배틀 & 드래곤 컬렉션 (http://www.tv-tokyo.co.jp/anime/oreca_dracolle/) <w = 1, i = 3081>
+  > 0 category.
+- 히어로 뱅크 (http://www.tv-tokyo.co.jp/anime/herobank) <w = 1, i = 3042>
+  > 0 category.
+[화]
+- 유리쿠마 아라시 (http://www.yurikuma.jp/) <w = 2, i = 3262>
+  > 2 categories.
+    => 코코렛 (http://ogura-yui.moe/220281488501)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oire111&categoryNo=284', 'TEXT': '진행 자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oire111&categoryNo=324', 'TEXT': '유리쿠마 아라시'}
+    => THE빅오 (http://blog.naver.com/cobb333/220281458914)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cobb333&categoryNo=7', 'TEXT': '제작자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cobb333&categoryNo=67', 'TEXT': '유리쿠마 아라시'}
+- 겁쟁이 페달 GRANDE ROAD (http://yowapeda.com/) <w = 2, i = 3153>
+  > 1 category.
+    => i하늘i처럼i (http://haniani.net/xe/168494)
+      >> 1 candidate.
+        ==>> 1. {'XE': 'http://haniani.net/xe/168494', 'TEXT': '겁쟁이 페달 GRANDE ROAD 19화 자막'}
+- 오늘부터 신령님◎ (http://mikagesha.com/) <w = 2, i = 3225>
+  > 1 category.
+    => 스피넬 (http://spinel.egloos.com/5267777)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://spinel.egloos.com/category/오늘부터 신령님', 'TEXT': '오늘부터 신령님'}
+- 마진본 (http://www.majinbone.com/) <w = 2, i = 3083>
+  > 2 categories.
+    => 레이드 (http://blog.naver.com/passingthehu/220269501566)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=passingthehu&categoryNo=26', 'TEXT': '심심해서 한 자막...'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=passingthehu&categoryNo=27', 'TEXT': '마진본'}
+    => feder07 (http://asterix.tistory.com/)
+      >> 0 candidate.
+- 새벽의 연화 (http://www.marv.jp/special/yona/) <w = 2, i = 3205>
+  > 1 category.
+    => 제이와 다람 (http://blog.naver.com/yona_s2/220283381008)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=yona_s2&categoryNo=6', 'TEXT': '자막 (13~ing)'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=yona_s2&categoryNo=1', 'TEXT': '새벽의 연화'}
+[수]
+- 미남 고교 지구 방위부 LOVE! (http://boueibu.com) <w = 3, i = 3267>
+  > 2 categories.
+    => 카이란 (http://blog.naver.com/qtr01122/220282646853)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=qtr01122&categoryNo=33', 'TEXT': '미남고교 지구방위부 LOVE'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=qtr01122&categoryNo=13', 'TEXT': '자막'}
+    => 갓성인 (http://godsungin.tistory.com/89)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막', 'TEXT': '매주업뎃자막'}
+        ==>> 2. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막/《水》미남 고교 지구 방위부 LOVE!', 'TEXT': '《水》미남 고교 지구 방위부 LOVE!'}
+        ==>> 3. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막/《水》미남 고교 지구 방위부 LOVE!', 'TEXT': '매주업뎃자막/《水》미남 고교 지구 방위부 LOVE!'}
+- 건담 빌드 파이터즈 트라이 (http://gundam-bf.net/) <w = 3, i = 3151>
+  > 1 category.
+    => stankovic (http://fuko.tistory.com/1607)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -', 'TEXT': '- 14 -'}
+        ==>> 2. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/Build Fighters TRY', 'TEXT': '- 14 -/Build Fighters TRY'}
+        ==>> 3. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/Build Fighters TRY', 'TEXT': 'Build Fighters TRY'}
+- 디스크 워즈 : 어벤져스 (http://www.tv-tokyo.co.jp/anime/dw_avengers/) <w = 3, i = 3084>
+  > 0 category.
+- 밀리터리! (http://dreamcreation.co.jp/militari/ ) <w = 3, i = 3313>
+  > 1 category.
+    => kanna (http://kannasub.tistory.com/entry/밀리터리-8화-자막)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://kannasub.tistory.com/category/진행자막', 'TEXT': '진행자막'}
+        ==>> 2. {'TISTORY': 'http://kannasub.tistory.com/category/진행자막/밀리터리', 'TEXT': '진행자막/밀리터리'}
+        ==>> 3. {'TISTORY': 'http://kannasub.tistory.com/category/진행자막/밀리터리', 'TEXT': '밀리터리'}
+[목]
+- 함대 컬렉션 ~칸코레~ (http://kancolle-anime.jp/) <w = 4, i = 1522>
+  > 3 categories.
+    => 류시 (http://blog.naver.com/es_ryusi/220283756296)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=es_ryusi&categoryNo=1', 'TEXT': 'Sub Title'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=es_ryusi&categoryNo=6', 'TEXT': '함대컬렉션'}
+    => Alvarez (http://r-kai.wo.tc)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=coolingsonic&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+    => 코코렛 (http://ogura-yui.moe/220283891358)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oire111&categoryNo=284', 'TEXT': '진행 자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oire111&categoryNo=326', 'TEXT': '함대 컬렉션'}
+- 기생수 (http://www.kiseiju.jp/ ) <w = 4, i = 1644>
+  > 2 categories.
+    => UTPasiirs (http://utpasiirs.tistory.com/)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://utpasiirs.tistory.com/category/\u3000자막 작업 중 (中)/(14) 기생수\u3000\u3000\u3000\u3000\u3000\u3000\u3000', 'TEXT': '(14) 기생수'}
+    => 알파카맨 (http://ilovealpaca.tistory.com/200)
+      >> 22 candidates.
+        ==>> 1. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/러브 라이브 2기', 'TEXT': '러브 라이브 2기'}
+        ==>> 2. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/농림', 'TEXT': '농림'}
+        ==>> 3. {'TISTORY': 'http://ilovealpaca.tistory.com/category/기타', 'TEXT': '기타'}
+        ==>> 4. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/기생수', 'TEXT': '기생수'}
+        ==>> 5. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/러브 라이브 1기', 'TEXT': '러브 라이브 1기'}
+        ==>> 6. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/위치 크래프트 웍스', 'TEXT': '위치 크래프트 웍스'}
+        ==>> 7. {'TISTORY': 'http://ilovealpaca.tistory.com/category/하차 자막', 'TEXT': '하차 자막'}
+        ==>> 8. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/야마노스스메', 'TEXT': '야마노스스메'}
+        ==>> 9. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/야마노스스메 세컨드 시즌', 'TEXT': '야마노스스메 세컨드 시즌'}
+        ==>> 10. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/핑퐁 THE ANIMATION', 'TEXT': '핑퐁 THE ANIMATION'}
+        ==>> 11. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막', 'TEXT': '완결 자막'}
+        ==>> 12. {'TISTORY': 'http://ilovealpaca.tistory.com/category/공지사항', 'TEXT': '공지사항'}
+        ==>> 13. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막', 'TEXT': '진행중 자막'}
+        ==>> 14. {'TISTORY': 'http://ilovealpaca.tistory.com/category/영상 작업물', 'TEXT': '영상 작업물'}
+        ==>> 15. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/신격의 바하무트 GENESIS', 'TEXT': '신격의 바하무트 GENESIS'}
+        ==>> 16. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/기생수', 'TEXT': '진행중 자막/기생수'}
+        ==>> 17. {'TISTORY': 'http://ilovealpaca.tistory.com/category/하차 자막/월드 트리거', 'TEXT': '월드 트리거'}
+        ==>> 18. {'TISTORY': 'http://ilovealpaca.tistory.com/category/알파카', 'TEXT': '알파카'}
+        ==>> 19. {'TISTORY': 'http://ilovealpaca.tistory.com/category/게임 한글화', 'TEXT': '게임 한글화'}
+        ==>> 20. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/최근 여동생의 상태가 조금 이상한 것 같다만', 'TEXT': '최근 여동생의 상태가 조금 이상한 것 같다만'}
+        ==>> 21. {'TISTORY': 'http://ilovealpaca.tistory.com/category/완결 자막/누나가 왔다', 'TEXT': '누나가 왔다'}
+        ==>> 22. {'TISTORY': 'http://ilovealpaca.tistory.com/category/진행중 자막/밤의 얏타맨', 'TEXT': '밤의 얏타맨'}
+- 새 여동생 마왕의 계약자 (http://anime-shinmaimaou.com/) <w = 4, i = 3228>
+  > 1 category.
+    => 천상 (http://mglna.tistory.com/522)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://mglna.tistory.com/category/진행자막/임시진행//새여동생 마왕의 계약자', 'TEXT': '임시진행//새여동생 마왕의 계약자'}
+        ==>> 2. {'TISTORY': 'http://mglna.tistory.com/category/진행자막', 'TEXT': '진행자막'}
+        ==>> 3. {'TISTORY': 'http://mglna.tistory.com/category/진행자막/임시진행//새여동생 마왕의 계약자', 'TEXT': '진행자막/임시진행//새여동생 마왕의 계약자'}
+- 아이카츠! (http://www.tv-tokyo.co.jp/anime/aikatsu/ ) <w = 4, i = 1349>
+  > 2 categories.
+    => 코야레인 (http://cndska15.blog.me/220284843343)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=194', 'TEXT': '아이카츠(111화~)'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=107', 'TEXT': '『자막』'}
+    => feder07 (http://feder07.blog.fc2.com/)
+      >> 0 candidate.
+- 포켓몬스터 XY (http://www.tv-tokyo.co.jp/anime/pokemon_xy/index2.html ) <w = 4, i = 1350>
+  > 1 category.
+    => DJay (http://jic3940.blog.me/220284647457)
+      >> 1 candidate.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=jic3940&categoryNo=62', 'TEXT': 'XY 자막질'}
+- 나루토 질풍전 (http://www.tv-tokyo.co.jp/anime/naruto/index2.html ) <w = 4, i = 1351>
+  > 0 category.
+- 혈액형 군! 2 (http://www.ketsuekigatakun.com/ ) <w = 4, i = 3290>
+  > 1 category.
+    => fanic (http://blog.naver.com/worm8982/)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=worm8982&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+- SHIROBAKO (http://shirobako-anime.com/) <w = 4, i = 3221>
+  > 3 categories.
+    => 여니 (http://kwangwaul.egloos.com/5867744)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://kwangwaul.egloos.com/category/[금] 시로바코', 'TEXT': '[금] 시로바코'}
+    => 키리바시 (http://kiribasi.moe/140)
+      >> 0 candidate.
+    => 라피 (http://)
+      >> Invalid URL.
+[금]
+- 도쿄 구울√A (http://www.marv.jp/special/tokyoghoul/) <w = 5, i = 3331>
+  > 2 categories.
+    => stankovic (http://fuko.tistory.com/1609)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -', 'TEXT': '- 14 -'}
+        ==>> 2. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/Tokyo Ghoul', 'TEXT': '- 14 -/Tokyo Ghoul'}
+        ==>> 3. {'TISTORY': 'http://fuko.tistory.com/category/- 14 -/Tokyo Ghoul', 'TEXT': 'Tokyo Ghoul'}
+    => 비효 (http://blog.naver.com/qlgy)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=qlgy&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+- 시원찮은 그녀를 위한 육성방법 (http://www.saenai.tv/) <w = 5, i = 3102>
+  > 3 categories.
+    => 천상 (http://mglna.tistory.com/523)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://mglna.tistory.com/category/진행자막/시원찮은 그녀를 위한 육성방법', 'TEXT': '진행자막/시원찮은 그녀를 위한 육성방법'}
+        ==>> 2. {'TISTORY': 'http://mglna.tistory.com/category/진행자막', 'TEXT': '진행자막'}
+        ==>> 3. {'TISTORY': 'http://mglna.tistory.com/category/진행자막/시원찮은 그녀를 위한 육성방법', 'TEXT': '시원찮은 그녀를 위한 육성방법'}
+    => 불법미인 (http://bbmi.kr)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://bbmi.tistory.com/category/진행자막/시원찮은 그녀를 위한 육성방법', 'TEXT': '시원찮은 그녀를 위한 육성방법'}
+    => 불량기념물 (http://bullyangblog.tistory.com/515)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://bullyangblog.tistory.com/category/◈ 진행 자막', 'TEXT': '◈ 진행 자막'}
+        ==>> 2. {'TISTORY': 'http://bullyangblog.tistory.com/category/◈ 진행 자막/시원찮은 그녀를 위한 육성 방법', 'TEXT': '◈ 진행 자막/시원찮은 그녀를 위한 육성 방법'}
+        ==>> 3. {'TISTORY': 'http://bullyangblog.tistory.com/category/◈ 진행 자막/시원찮은 그녀를 위한 육성 방법', 'TEXT': '시원찮은 그녀를 위한 육성 방법'}
+- 4월은 너의 거짓말 (http://www.kimiuso.jp/ ) <w = 5, i = 3105>
+  > 3 categories.
+    => 스피넬 (http://spinel.egloos.com/5267988)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://spinel.egloos.com/category/4월은 너의 거짓말', 'TEXT': '4월은 너의 거짓말'}
+    => 까만양군 (http://rosslyn.tistory.com/1473)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://rosslyn.tistory.com/category/┃진행자막/[金]4월은 너의 거짓말', 'TEXT': '[金]4월은 너의 거짓말'}
+        ==>> 2. {'TISTORY': 'http://rosslyn.tistory.com/category/┃진행자막', 'TEXT': '┃진행자막'}
+        ==>> 3. {'TISTORY': 'http://rosslyn.tistory.com/category/┃진행자막/[金]4월은 너의 거짓말', 'TEXT': '┃진행자막/[金]4월은 너의 거짓말'}
+    => 라피 (http://therapi.tistory.com/395)
+      >> 37 candidates.
+        ==>> 1. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく/천체의 메서드', 'TEXT': '천체의 메서드'}
+        ==>> 2. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/미확인으로 진행형', 'TEXT': '미확인으로 진행형'}
+        ==>> 3. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく', 'TEXT': '자막 놀이じまく'}
+        ==>> 4. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/골든 타임', 'TEXT': '골든 타임'}
+        ==>> 5. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/내 뇌 속 선택지', 'TEXT': '내 뇌 속 선택지'}
+        ==>> 6. {'TISTORY': 'http://therapi.tistory.com/category/극장판/일반', 'TEXT': '극장판/일반'}
+        ==>> 7. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/감으로 하는! 부활동', 'TEXT': '감으로 하는! 부활동'}
+        ==>> 8. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/Go! Go! 575', 'TEXT': 'Go! Go! 575'}
+        ==>> 9. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/옆자리 세키 군', 'TEXT': '옆자리 세키 군'}
+        ==>> 10. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく/4월은 너의 거짓말', 'TEXT': '자막 놀이じまく/4월은 너의 거짓말'}
+        ==>> 11. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/사쿠라 트릭', 'TEXT': '사쿠라 트릭'}
+        ==>> 12. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく/Fate / Stay Night UBW', 'TEXT': 'Fate / Stay Night UBW'}
+        ==>> 13. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/이나리, 콩콩, 사랑의 첫걸음', 'TEXT': '이나리, 콩콩, 사랑의..'}
+        ==>> 14. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく/남편말', 'TEXT': '남편말'}
+        ==>> 15. {'TISTORY': "http://therapi.tistory.com/category/다한 자막 놀이/노 게임 노 '랖'", 'TEXT': "노 게임 노 '랖'"}
+        ==>> 16. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく/Selector Spread WIXOSS', 'TEXT': 'Selector Spread WIXOSS'}
+        ==>> 17. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/금빛 모자이크', 'TEXT': '금빛 모자이크'}
+        ==>> 18. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이', 'TEXT': '다한 자막 놀이'}
+        ==>> 19. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/잔잔한 내일로부터', 'TEXT': '잔잔한 내일로부터'}
+        ==>> 20. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/D-Frag!', 'TEXT': 'D-Frag!'}
+        ==>> 21. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/러브 라보', 'TEXT': '러브 라보'}
+        ==>> 22. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/최근 여동생의 상태가-', 'TEXT': '최근 여동생의 상태가-'}
+        ==>> 23. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/일주일간 친구', 'TEXT': '일주일간 친구'}
+        ==>> 24. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/리틀 버스터즈 ~Refrain~', 'TEXT': '리틀 버스터즈 ~Refra..'}
+        ==>> 25. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/논논비요리', 'TEXT': '논논비요리'}
+        ==>> 26. {'TISTORY': 'http://therapi.tistory.com/category/혼자말하기 つぶやき/자막 관련 공지', 'TEXT': '자막 관련 공지'}
+        ==>> 27. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/하트커넥트', 'TEXT': '하트커넥트'}
+        ==>> 28. {'TISTORY': 'http://therapi.tistory.com/category/자막 놀이じまく/4월은 너의 거짓말', 'TEXT': '4월은 너의 거짓말'}
+        ==>> 29. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/우리들은 모두 카와이장(불쌍해)', 'TEXT': '우리들은 모두 카와이..'}
+        ==>> 30. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/경계의 저편', 'TEXT': '경계의 저편'}
+        ==>> 31. {'TISTORY': 'http://therapi.tistory.com/category/듣기 놀이', 'TEXT': '듣기 놀이'}
+        ==>> 32. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/Wake Up, Girls!', 'TEXT': 'Wake Up, Girls!'}
+        ==>> 33. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/테사구레 앙코르', 'TEXT': '테사구레 앙코르'}
+        ==>> 34. {'TISTORY': 'http://therapi.tistory.com/category/혼자말하기 つぶやき', 'TEXT': '혼자말하기 つぶやき'}
+        ==>> 35. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/타마유라 S2', 'TEXT': '타마유라 S2'}
+        ==>> 36. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/와타모테', 'TEXT': '와타모테'}
+        ==>> 37. {'TISTORY': 'http://therapi.tistory.com/category/다한 자막 놀이/슈퍼 소니코', 'TEXT': '슈퍼 소니코'}
+- 행복 그래피티 (http://www.tbs.co.jp/anime/koufuku_g/) <w = 5, i = 3184>
+  > 1 category.
+    => 코코렛 (http://ogura-yui.moe/220284896820)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oire111&categoryNo=284', 'TEXT': '진행 자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=oire111&categoryNo=327', 'TEXT': '행복 그래피티'}
+- 건담 G의 레콘기스타 (http://www.g-reco.net/ ) <w = 5, i = 3103>
+  > 2 categories.
+    => 프리시스 (http://prisis.tistory.com/670)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://prisis.tistory.com/category/애니 자막 (방영중)/건담 G의 레콘기스타', 'TEXT': '건담 G의 레콘기스타'}
+        ==>> 2. {'TISTORY': 'http://prisis.tistory.com/category/애니 자막 (방영중)/건담 G의 레콘기스타', 'TEXT': '애니 자막 (방영중)/건담 G의 레콘기스타'}
+        ==>> 3. {'TISTORY': 'http://prisis.tistory.com/category/애니 자막 (방영중)', 'TEXT': '애니 자막 (방영중)'}
+    => 하느 (http://blog.noitamina.moe/220286216179)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=harne_&categoryNo=159', 'TEXT': 'G의 레콘기스타'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=harne_&categoryNo=78', 'TEXT': '자막'}
+- 총황무진 파프니르 (http://www.tbs.co.jp/anime/fafnir/ ) <w = 5, i = 3209>
+  > 3 categories.
+    => 갓성인 (http://godsungin.tistory.com/90)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막', 'TEXT': '매주업뎃자막'}
+        ==>> 2. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막/《金》총황무진 파프니르', 'TEXT': '매주업뎃자막/《金》총황무진 파프니르'}
+        ==>> 3. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막/《金》총황무진 파프니르', 'TEXT': '《金》총황무진 파프니르'}
+    => 람찡 (http://siranami.blog.me/220285080115)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=siranami&categoryNo=12', 'TEXT': '진행자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=siranami&categoryNo=1', 'TEXT': '자막공간'}
+    => 코야레인 (http://cndska15.blog.me/220285211802)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=196', 'TEXT': '총황무진 파프니르'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=107', 'TEXT': '『자막』'}
+- 창궁의 파프너 EXODUS (http://fafner.jp/) <w = 5, i = 1545>
+  > 1 category.
+    => 앗사리 (http://blog.naver.com/as2ar1/220285901594)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=as2ar1&categoryNo=197', 'TEXT': '자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=as2ar1&categoryNo=199', 'TEXT': '창궁의 파프너 EXODUS'}
+- 애니로 배우는 심신의학 (http://mental-anime.jp/ ) <w = 5, i = 3276>
+  > 3 categories.
+    => 쵸우료우 (http://chouryou.blog.me/220285018424)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=55', 'TEXT': '▷ 진행자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=99', 'TEXT': '애니로 배우는 심신의학'}
+    => 갓성인 (http://godsungin.tistory.com/87)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막', 'TEXT': '매주업뎃자막'}
+        ==>> 2. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막/《金》애니로 배우는 심신의학', 'TEXT': '매주업뎃자막/《金》애니로 배우는 심신의학'}
+        ==>> 3. {'TISTORY': 'http://godsungin.tistory.com/category/매주업뎃자막/《金》애니로 배우는 심신의학', 'TEXT': '《金》애니로 배우는 심신의학'}
+    => fanic (http://blog.naver.com/worm8982)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=worm8982&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+- 요괴 워치 (http://www.tv-tokyo.co.jp/anime/youkai-watch/) <w = 5, i = 1496>
+  > 1 category.
+    => 호두와 깨알 (http://blog.naver.com/irena403)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=irena403&widgetTypeCall=true&parentCategoryNo=12', fragment='')
+      >> 0 candidate.
+- 크레용 신짱 (http://www.tv-asahi.co.jp/shinchan/ ) <w = 5, i = 362>
+  > 0 category.
+- Bonjour♪사랑맛 파티스리 (http://www.bonkoi.com/ ) <w = 5, i = 3242>
+  > 1 category.
+    => Leon (http://hoon2world.egloos.com/9680040)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://hoon2world.egloos.com/category/Bonjour♪사랑맛 파티스리', 'TEXT': 'Bonjour♪사랑맛 파티스리'}
+[토]
+- 아이돌 마스터 신데렐라 걸즈 (http://imas-cinderella.com/ ) <w = 6, i = 3121>
+  > 3 categories.
+    => 여니 (http://kwangwaul.egloos.com/5867896)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://kwangwaul.egloos.com/category/[토] Idol master 신데렐라 걸즈', 'TEXT': '[토] Idol master 신데렐라 걸즈'}
+    => 쿄우 (http://blog.naver.com/recog_/220278573557)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=recog_&categoryNo=134', 'TEXT': '진행 자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=recog_&categoryNo=144', 'TEXT': '신데렐라 걸즈'}
+    => 에뚜왈 (http://etoile100.egloos.com/5766030)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://etoile100.egloos.com/category/신데렐라 걸즈 ass 자막', 'TEXT': '신데렐라 걸즈 ass 자막'}
+- 죠죠의 기묘한 모험 스타더스트 크루세이더즈 이집트편 (http://jojo-animation.com/) <w = 6, i = 3329>
+  > 2 categories.
+    => Sket (http://)
+      >> Invalid URL.
+    => 가니스 (http://songoten151.blog.me/220287249556)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=songoten151&categoryNo=43', 'TEXT': '번역 / 자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=songoten151&categoryNo=46', 'TEXT': 'JOJO 3부 이집트 편'}
+- 암살교실 (http://www.ansatsu-anime.com/) <w = 6, i = 3206>
+  > 3 categories.
+    => stankovic (http://fuko.tistory.com/1610)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://fuko.tistory.com/category/- 15 -', 'TEXT': '- 15 -'}
+        ==>> 2. {'TISTORY': 'http://fuko.tistory.com/category/- 15 -/Assassination classroom', 'TEXT': '- 15 -/Assassination classroom'}
+        ==>> 3. {'TISTORY': 'http://fuko.tistory.com/category/- 15 -/Assassination classroom', 'TEXT': 'Assassination classroom'}
+    => 파Oi (http://blog.naver.com/baby1255/220285993619)
+      >> 1 candidate.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=baby1255&categoryNo=211', 'TEXT': '♪토。암살교실'}
+    => 트리플에이 (http://blog.naver.com/noh0058/220286543092)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=noh0058&categoryNo=55', 'TEXT': '암살교실'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=noh0058&categoryNo=51', 'TEXT': '자막'}
+- 가로<GARO> - 불꽃의 각인 (http://garo-project.jp/ANIME/) <w = 6, i = 1515>
+  > 2 categories.
+    => THE빅오 (http://cobb333.blog.me/220286797275)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cobb333&categoryNo=7', 'TEXT': '제작자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cobb333&categoryNo=63', 'TEXT': 'GARO -불꽃의 각인-'}
+    => seokkang (http://blog.naver.com/seokkang87/220215348925)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=seokkang87&categoryNo=25', 'TEXT': '가로 - 불꽃의 각인'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=seokkang87&categoryNo=12', 'TEXT': '완결 자막'}
+- ISUCA (이스카) (http://isuca.net/) <w = 6, i = 3223>
+  > 1 category.
+    => 쵸우료우 (http://chouryou.blog.me/220285980706)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=55', 'TEXT': '▷ 진행자막'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=chouryou&categoryNo=98', 'TEXT': 'ISUCA'}
+- \ub370\uc2a4\u30fb\ud37c\ub808\uc774\ub4dc (http://www.ntv.co.jp/deathparade/) <w = 6, i = 3312>
+  > 2 categories.
+    => 하케라노 (http://hakerano.blog.fc2.com/)
+      >> 3 candidates.
+        ==>> 1. {'FC2': 'http://hakerano.blog.fc2.com/blog-category-39.html', 'TEXT': '[土] 데스 퍼레이드 (8)'}
+        ==>> 2. {'FC2': 'http://hakerano.blog.fc2.com/blog-category-30.html', 'TEXT': "[10'04] 회장은 메이드님! (2)"}
+        ==>> 3. {'FC2': 'http://hakerano.blog.fc2.com/blog-category-3.html', 'TEXT': "[14'07] 아오하라이드 (15)"}
+    => 불법미인 (http://bbmi.kr)
+      >> 5 candidates.
+        ==>> 1. {'TISTORY': 'http://bbmi.tistory.com/category/완결자막/뱀파이어 번드', 'TEXT': '뱀파이어 번드'}
+        ==>> 2. {'TISTORY': 'http://bbmi.tistory.com/category/진행자막/데스 퍼레이드', 'TEXT': '데스 퍼레이드'}
+        ==>> 3. {'TISTORY': 'http://bbmi.tistory.com/category/완결자막/회장님은 메이드사마', 'TEXT': '회장님은 메이드사마'}
+        ==>> 4. {'TISTORY': 'http://bbmi.tistory.com/category/완결자막/바이스 서바이브', 'TEXT': '바이스 서바이브'}
+        ==>> 5. {'TISTORY': 'http://bbmi.tistory.com/category/완결자막/아오하라이드', 'TEXT': '아오하라이드'}
+- 철인 28호 가오! (http://www.fujitv.co.jp/b_hp/gao/ ) <w = 6, i = 368>
+  > 0 category.
+- 퓨쳐 카드 버디파이트 (http://www.tv-aichi.co.jp/fc-buddyfight/) <w = 6, i = 663>
+  > 0 category.
+- 프리파라 (http://www.tv-tokyo.co.jp/anime/pripara/index2.html) <w = 6, i = 3146>
+  > 1 category.
+    => 코야레인 (http://cndska15.blog.me/220286737284)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=177', 'TEXT': '프리파라'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=cndska15&categoryNo=107', 'TEXT': '『자막』'}
+- FAIRY TAIL (http://www.tv-tokyo.co.jp/anime/fairytail ) <w = 6, i = 1525>
+  > 2 categories.
+    => Tosso (http://tosso.kr/category/%ED%8E%98%EC%96%B4%EB%A6%AC%20%ED%85%8C%EC%9D%BC)
+      >> 0 candidate.
+    => katori rea (http://katori-rea.tistory.com/305)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://katori-rea.tistory.com/category/◈ 2009 ◈', 'TEXT': '◈ 2009 ◈'}
+        ==>> 2. {'TISTORY': 'http://katori-rea.tistory.com/category/◈ 2009 ◈/FAIRY TAIL', 'TEXT': '◈ 2009 ◈/FAIRY TAIL'}
+        ==>> 3. {'TISTORY': 'http://katori-rea.tistory.com/category/◈ 2009 ◈/FAIRY TAIL', 'TEXT': 'FAIRY TAIL'}
+- 로그 호라이즌 2기 (http://www3.nhk.or.jp/anime/loghorizon/) <w = 6, i = 3113>
+  > 1 category.
+    => 싯쭈 (http://blog.naver.com/wdrop14/220286546643)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=wdrop14&categoryNo=20', 'TEXT': '로그 호라이즌 2기'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=wdrop14&categoryNo=14', 'TEXT': '자막'}
+- 매직 카이토 1412 (http://www.ytv.co.jp/magickaito/) <w = 6, i = 3236>
+  > 2 categories.
+    => 비누 (http://blog.naver.com/ok10701)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=ok10701&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+    => 리안 (http://ta2hisa.tistory.com/85)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://ta2hisa.tistory.com/category/우리집의 욕조 사정', 'TEXT': '우리집의 욕조 사정'}
+- 명탐정 코난 (http://www.ytv.co.jp/conan/ ) <w = 6, i = 1374>
+  > 2 categories.
+    => 비누 (http://blog.naver.com/ok10701)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=ok10701&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+    => 108 (http://blog.naver.com/ripper450)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=ripper450&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+- 미소녀전사 세일러문 Crystal (http://sailormoon-official.com/) <w = 6, i = 1485>
+  > 1 category.
+    => 여니 (http://kwangwaul.egloos.com/5867069)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://kwangwaul.egloos.com/category/[토] 세일러문 crystal', 'TEXT': '[토] 세일러문 crystal'}
+- 산적의 딸 로냐 (http://www9.nhk.or.jp/anime/ronja/) <w = 6, i = 3183>
+  > 1 category.
+    => 모닝파이 (http://mopie.tistory.com/64)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://mopie.tistory.com/category/자막/산적의 딸 로냐', 'TEXT': '산적의 딸 로냐'}
+        ==>> 2. {'TISTORY': 'http://mopie.tistory.com/category/자막/산적의 딸 로냐', 'TEXT': '자막/산적의 딸 로냐'}
+        ==>> 3. {'TISTORY': 'http://mopie.tistory.com/category/자막', 'TEXT': '자막'}
+- 소년 할리우드 -HOLLY STAGE FOR 50- (http://www.starchild.co.jp/special/shonen-hollywood-anime/) <w = 6, i = 3266>
+  > 1 category.
+    => 스피넬 (http://spinel.egloos.com/5268129)
+      >> 1 candidate.
+        ==>> 1. {'TISTORY': 'http://spinel.egloos.com/category/소년 할리우드', 'TEXT': '소년 할리우드'}
+- 탐정 오페라 밀키 홈즈 TD (http://www.milky-holmes-anime.com/td/) <w = 6, i = 3261>
+  > 2 categories.
+    => 카이란 (http://blog.naver.com/qtr01122/220286822005)
+      >> 2 candidates.
+        ==>> 1. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=qtr01122&categoryNo=23', 'TEXT': '탐정오페라밀키홈즈TD'}
+        ==>> 2. {'NAVER': 'http://blog.naver.com/PostList.nhn?blogId=qtr01122&categoryNo=13', 'TEXT': '자막'}
+    => kanna (http://kannasub.tistory.com/entry/탐정가극-밀키홈즈-TD-8화-자막)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://kannasub.tistory.com/category/진행자막', 'TEXT': '진행자막'}
+        ==>> 2. {'TISTORY': 'http://kannasub.tistory.com/category/진행자막/탐정가극 밀키홈즈 TD', 'TEXT': '탐정가극 밀키홈즈 TD'}
+        ==>> 3. {'TISTORY': 'http://kannasub.tistory.com/category/진행자막/탐정가극 밀키홈즈 TD', 'TEXT': '진행자막/탐정가극 밀키홈즈 TD'}
+- 듀라라라!!ⅹ2 (http://www.durarara.com/) <w = 6, i = 3098>
+  > 2 categories.
+    => Alvarez (http://r-kai.wo.tc)
+ParseResult(scheme='http', netloc='blog.naver.com', path='/PostList.nhn', params='', query='blogId=coolingsonic&widgetTypeCall=true', fragment='')
+      >> 0 candidate.
+    => 불법미인 (http://bbmi.kr)
+      >> 3 candidates.
+        ==>> 1. {'TISTORY': 'http://bbmi.tistory.com/category/진행자막/듀라라라!!X2 승', 'TEXT': '듀라라라!!X2 승'}
+        ==>> 2. {'TISTORY': 'http://bbmi.tistory.com/category/완결자막/듀라라라!!', 'TEXT': '듀라라라!!'}
+        ==>> 3. {'TISTORY': 'http://bbmi.tistory.com/category/완결자막/전국 바사라 2기', 'TEXT': '전국 바사라 2기'}
+[Finished in 43.5s]

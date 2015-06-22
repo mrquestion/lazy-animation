@@ -17,6 +17,12 @@ import time, datetime
 def timestamp(format="%Y%m%d-%H%M%S"):
     return datetime.datetime.fromtimestamp(time.time()).strftime(format)
 
+URL_FORMAT1 = "http://www.anissia.net/anitime/list?w={}"
+URL_FORMAT2 = "http://www.anissia.net/anitime/cap?i={}"
+FIRST_DATE = "20141001000000"
+LAST_DATE = "20141231235959"
+WEEKDAY = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "토" ] ]
+
 class objdict(dict):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -62,12 +68,6 @@ def lcs(a, b):
 def get_root_node(url):
     rs = rq.get(url, timeout=5)
     return etree.HTML(rs.content if rs.ok and len(rs.content) > 0 else "<error/>")
-
-URL_FORMAT1 = "http://www.anissia.net/anitime/list?w={}"
-URL_FORMAT2 = "http://www.anissia.net/anitime/cap?i={}"
-FIRST_DATE = "20141001000000"
-LAST_DATE = "20141231235959"
-WEEKDAY = [ "[{}]".format(x) for x in [ "일", "월", "화", "수", "목", "금", "토" ] ]
 
 def get_dotw(i, retry=False):
     try:
